@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 "# Cryptoverse--GLENN108-regno-unm1611212204960" 
 "# Cryptoverse--GLENN108-regno-unm1611212204960" 
 "# GLENN108-Cryptoverse--GLENN108-regno-unm1611212204960" 
+"# Cryptoverse--GLENN108-regno-unm1611212204960" 
